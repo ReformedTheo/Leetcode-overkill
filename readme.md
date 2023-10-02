@@ -14,4 +14,4 @@ In this repository, I tackle various LeetCode challenges and approach them in a 
 
 ## Contributions
 
-Feel free to contribute to this repository! Whether it's adding more overkilled solutions, optimizing current ones, or providing feedback, all contributions are welcome.
+Feel free to contribute to this repository! Whether it's adding more overkilled solutions, optimizing current ones, or providing feedback, all contributions are welcome. Feel free to use your preferred programming language, or let your fate be decided by the [WHEEEEEL OF FORTUUUNE!!!](./wheel_of_fortune/)
